@@ -20,4 +20,4 @@ const fetchProducts = async () => {
   }
 }
 
-  export default fetchProducts;
+export default fetchProducts;
